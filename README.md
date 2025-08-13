@@ -5,3 +5,8 @@ My ideas live here.
 - [ ] Title
 - [ ] Why
 - [ ] First step
+
+## Template
+- [ ] Title
+- [ ] Why
+- [ ] First step
